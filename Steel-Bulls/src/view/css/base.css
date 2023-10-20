@@ -41,3 +41,29 @@ body {
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
+
+.card{
+    border: 1px solid var(--cor02); 
+    border-radius: 12px; 
+    margin: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.w-100{
+    width: 1050px!important;
+    height: 650px!important;
+    margin: auto;
+}
+
+h1{
+    background-color: #F7AD45;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+.accordion{
+    text-align: center;
+}
